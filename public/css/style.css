@@ -1,0 +1,50 @@
+body {
+	width: 100%;
+}
+
+.product-list-container {
+	margin-bottom: 50px;
+}
+
+.product-text {
+	width: 50%;
+	float: left;
+	background-color: aqua;
+}
+.product-text-main {
+	padding: 10px;
+}
+
+.product-picture {
+	width: 50%;
+	float: right;
+	text-align: right;
+	background-color: pink;
+}
+.product-picture-main {
+	padding: 10px;
+}
+
+.spacer {
+	height: 20px;
+}
+.add-to-cart-list-container {
+	text-align: right;
+	clear: both;
+}
+.add-to-cart-container {
+	padding: 10px;
+}
+.price {
+	padding: 1em;
+	font-weight: bold;
+	font-size: 20px;
+}
+.header {
+	padding-top: 10px;
+}
+#nav {
+	list-style-type: none;
+	padding: 0px;
+	
+}
