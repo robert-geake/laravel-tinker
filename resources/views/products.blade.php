@@ -1,17 +1,17 @@
 @extends('layout')
 
 @section('page_title')
-Welcome
+Products
 @stop
 
 @section('page_heading')
-Welcome
+Products
 @stop
 
 
 
 @section('content')
-<p>Welcome everyone, we sell stuff!</p>
+<p>The stuff we sell!</p>
 
 
 @stop
